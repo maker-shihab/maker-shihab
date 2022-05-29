@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shihab</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img src="https://i.ibb.co/qMVjFfk/Developer-activity.gif" alt="Your image url">
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maker-shihab](https://github.com/maker-shihab)
