@@ -48,8 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maker-shihab/maker-shihab/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
