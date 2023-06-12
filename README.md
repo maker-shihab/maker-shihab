@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋, I'm Shihab👨‍💻<br>A passionate frontend developer from Bangladesh</h2>
+<h2 align="left">Hi 👋, I'm Shihab👨‍💻<br>I am a skilled MERN stack developer from Bangladesh. I blend creativity and technical expertise to create captivating frontend solutions that make a lasting impact.</h2>
 
 ###
-<style>
-  .top-center{display: grid; grid-template-columns: 1fr 1fr;}
-</style>
-<div class="top-center">
+
 <p align="left">🔭 I’m currently working on React JS<br>🌱 I’m currently learning NodeJS<br>💬 Ask me about  frontend development,<br>📫 How to reach me  <frontendmaker99@gmail.com><br>👨‍💻 All of my projects are available at <br>📄 Know about my experiences</p>
+
+###
+<div align="center">
 <a href="https://app.daily.dev/Maker_Shihab"><img src="https://api.daily.dev/devcards/0e9d7271c7834b2b961d23894bd8e869.png?r=tx4" width="400" alt="Maker_Shihab's Dev Card"/></a>
 </div>
-###
-
+ <br>
+ <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maker-shihab" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maker-shihab" height="150" alt="languages graph"  />
