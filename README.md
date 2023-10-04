@@ -1,17 +1,35 @@
 ## [🌟 Crafting Digital Magic with Maker Shihab 👨‍💻](https://github.com/maker-shihab)
 
-🚀 Hey there, I'm Shihab, a web application developer with a passion for creating innovative and user-friendly solutions. My journey in the world of programming began with C, and I gradually honed my skills by delving into the fundamentals of Python and Java. While these languages laid the foundation of my coding journey, I found my true calling as a web application developer.
+<p>🚀 Crafting web wonders as a freelance developer. Transforming ideas into digital reality.</p>
 
-🌐 As a web application developer, I've immersed myself in the ever-evolving world of web technologies. I specialize in crafting dynamic and interactive web experiences using a wide range of tools and frameworks. From designing captivating user interfaces to building robust server-side applications, I thrive on turning creative ideas into functional code.
 
-💡 My tech stack includes modern technologies like JavaScript, React, Next.js, Express, MongoDB, TypeScript, Node.js, PHP, and more. I'm constantly exploring new technologies and staying up-to-date with the latest trends to ensure that I can offer the best solutions to the challenges of today's web development landscape.
+**Key Points:**
 
-🎓 In addition to my practical experience, I hold a diploma in Computer Science and Engineering from Thakurgaon Polytechnic Institute and am currently pursuing a Bachelor of Science in Computer Science and Engineering at EUROPEAN UNIVERSITY OF BANGLADESH. My educational background complements my hands-on experience, allowing me to approach projects with both theoretical knowledge and practical expertise.
+🚀 Freelance Web Application Developer 🌐 <br/>
+💡 Tech Stack: JavaScript, React, Node.js, MongoDB <br/>
+🎓 Pursuing BSc in Computer Science & Engineering at EUB <br/>
+💬 Passion for Innovative Solutions <br/>
+🤝 Collaboration & Knowledge Sharing <br/>
+📫 Connect with Me: [Email](mailto:frontendmaker99@gmail.com) / [LinkedIn](https://www.linkedin.com/in/maker-shihab/) <br/> 
 
-💬 Feel free to reach out to me for discussions on web development, programming, or any tech-related topics. I'm always eager to collaborate, share knowledge, and help others in their coding journey.
+💼 As a freelancer, you can also find me on:
 
-📫 You can get in touch with me via email at [frontendmaker99@gmail.com](mailto:frontendmaker99@gmail.com), connect with me on [LinkedIn](https://www.linkedin.com/in/maker-shihab/), or explore my projects and contributions right here on GitHub. Let's build amazing things together!
+[![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/maker_shihab) [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01463e018a3c2ff216)
 
+
+🚀 Passionate Web Developer: Greetings! I'm Shihab, an enthusiastic web application developer and a dedicated freelancer. My journey into the world of programming commenced with C, and gradually, I honed my skills by exploring the intricacies of Python and Java. While these languages set the foundation for my coding odyssey, my true calling emerged as a web application developer.
+
+🌐 Freelance Expertise: As a freelancer, my specialization lies in crafting dynamic and interactive web experiences that resonate with clients globally. Whether it's sculpting captivating user interfaces or constructing robust server-side applications, I thrive on translating imaginative concepts into functional code.
+
+💡 Cutting-Edge Tech Stack: My arsenal comprises cutting-edge technologies such as JavaScript, React, Next.js, Express, MongoDB, TypeScript, Node.js, PHP, and more. I'm constantly at the forefront of technology, exploring emerging trends to provide top-notch solutions.
+
+🎓 Educational Foundation: In addition to my hands-on expertise, I proudly hold a diploma in Computer Science and Engineering from Thakurgaon Polytechnic Institute. Currently, I'm pursuing a Bachelor of Science in Computer Science and Engineering at EUROPEAN UNIVERSITY OF BANGLADESH. This educational background complements my practical knowledge, allowing me to approach projects with a unique blend of theory and practice.
+
+💬 Open for Collaboration: Feel free to connect with me for insightful discussions on web development, programming, or any tech-related topics. My passion lies in collaborating, sharing knowledge, and assisting others on their coding journey.
+
+
+📫 Get in touch via email at frontendmaker99@gmail.com, connect on LinkedIn, or explore my projects and contributions here on GitHub. Let's collaborate and build amazing things together! 🚀🌐💡🎓💬📫
+<br/>
 ###
 <div align="center">
 <a href="https://app.daily.dev/Maker_Shihab"><img src="https://api.daily.dev/devcards/0e9d7271c7834b2b961d23894bd8e869.png?r=tx4" width="400" alt="Maker_Shihab's Dev Card"/></a>
