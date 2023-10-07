@@ -32,7 +32,7 @@
 <br/>
 ###
 <div align="center">
-<a href="https://app.daily.dev/Maker_Shihab"><img src="https://api.daily.dev/devcards/0e9d7271c7834b2b961d23894bd8e869.png?r=tx4" width="400" alt="Maker_Shihab's Dev Card"/></a>
+<a href="https://app.daily.dev/Maker_Shihab"><img src="https://api.daily.dev/devcards/0e9d7271c7834b2b961d23894bd8e869.png?r=nn8" width="400" alt="Maker_Shihab's Dev Card"/></a>
 </div>
  <br>
  <br>
