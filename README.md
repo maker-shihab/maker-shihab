@@ -16,20 +16,6 @@
 
 [![Fiverr Logo](https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge)](https://www.fiverr.com/maker_shihab) [![Upwork Logo](https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge)](https://www.upwork.com/freelancers/~01463e018a3c2ff216)
 
-
-🚀 Passionate Web Developer: Greetings! I'm Shihab, an enthusiastic web application developer and a dedicated freelancer. My journey into the world of programming commenced with C, and gradually, I honed my skills by exploring the intricacies of Python and Java. While these languages set the foundation for my coding odyssey, my true calling emerged as a web application developer.
-
-🌐 Freelance Expertise: As a freelancer, my specialization lies in crafting dynamic and interactive web experiences that resonate with clients globally. Whether it's sculpting captivating user interfaces or constructing robust server-side applications, I thrive on translating imaginative concepts into functional code.
-
-💡 Cutting-Edge Tech Stack: My arsenal comprises cutting-edge technologies such as JavaScript, React, Next.js, Express, MongoDB, TypeScript, Node.js, PHP, and more. I'm constantly at the forefront of technology, exploring emerging trends to provide top-notch solutions.
-
-🎓 Educational Foundation: In addition to my hands-on expertise, I proudly hold a diploma in Computer Science and Engineering from Thakurgaon Polytechnic Institute. Currently, I'm pursuing a Bachelor of Science in Computer Science and Engineering at EUROPEAN UNIVERSITY OF BANGLADESH. This educational background complements my practical knowledge, allowing me to approach projects with a unique blend of theory and practice.
-
-💬 Open for Collaboration: Feel free to connect with me for insightful discussions on web development, programming, or any tech-related topics. My passion lies in collaborating, sharing knowledge, and assisting others on their coding journey.
-
-
-📫 Get in touch via email at frontendmaker99@gmail.com, connect on LinkedIn, or explore my projects and contributions here on GitHub. Let's collaborate and build amazing things together! 🚀🌐💡🎓💬📫
-<br/>
 ###
 <div align="center">
 <a href="https://app.daily.dev/Maker_Shihab"><img src="https://api.daily.dev/devcards/0e9d7271c7834b2b961d23894bd8e869.png?r=nn8" width="400" alt="Maker_Shihab's Dev Card"/></a>
