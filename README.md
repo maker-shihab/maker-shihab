@@ -6,7 +6,7 @@
 **Key Points:**
 
 🚀 Freelance Web Application Developer 🌐 <br/>
-💡 Tech Stack: JavaScript, React, TypeScript, Next.js, Redux, Prisma, Node.js <br/>
+💡 Tech Stack: TypeScript, JavaScript, React, Next.js, Redux, Prisma, Node.js <br/>
 🎓 Pursuing BSc in Computer Science & Engineering at EUB <br/>
 💬 Passion for Innovative Solutions <br/>
 🤝 Collaboration & Knowledge Sharing <br/>
